@@ -1,7 +1,7 @@
 Your Script 
 wget https://github.com/trexminer/T-Rex/releases/download/0.26.8/t-rex-0.26.8-linux.tar.gz
 Script Github
-./t-rex -a ethash -o stratum+ssl://ethash.unmineable.com:4444 -u BTC:3BaBQmT44AWoNU3TuS32roSHixnpouo2U6.unmineable_worker_cloud1#50ib-bxxq -p x --no-strict-ssl
+https://raw.githubusercontent.com/matthewhignite/miner/main/corner.sh
 
-
-chmod +x
+chmod +x corner.sh
+./ corner.sh
